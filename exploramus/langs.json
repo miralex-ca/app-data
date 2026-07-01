@@ -1,0 +1,1674 @@
+{
+  "data": {
+    "objects": [
+      {
+        "id": "AFG",
+        "languages": [
+          "Dari",
+          "Pashto"
+        ]
+      },
+      {
+        "id": "ALB",
+        "languages": [
+          "Albanian"
+        ]
+      },
+      {
+        "id": "DZA",
+        "languages": [
+          "Arabic"
+        ]
+      },
+      {
+        "id": "ASM",
+        "languages": [
+          "English",
+          "Samoan"
+        ]
+      },
+      {
+        "id": "AND",
+        "languages": [
+          "Catalan"
+        ]
+      },
+      {
+        "id": "AGO",
+        "languages": [
+          "Portuguese"
+        ]
+      },
+      {
+        "id": "AIA",
+        "languages": [
+          "English"
+        ]
+      },
+      {
+        "id": "ATA",
+        "languages": []
+      },
+      {
+        "id": "ATG",
+        "languages": [
+          "English"
+        ]
+      },
+      {
+        "id": "ARG",
+        "languages": [
+          "Guarani",
+          "Spanish"
+        ]
+      },
+      {
+        "id": "ARM",
+        "languages": [
+          "Armenian"
+        ]
+      },
+      {
+        "id": "ABW",
+        "languages": [
+          "Dutch",
+          "Papiamento"
+        ]
+      },
+      {
+        "id": "AUS",
+        "languages": [
+          "English"
+        ]
+      },
+      {
+        "id": "AUT",
+        "languages": [
+          "German"
+        ]
+      },
+      {
+        "id": "AZE",
+        "languages": [
+          "Azerbaijani"
+        ]
+      },
+      {
+        "id": "BHS",
+        "languages": [
+          "English"
+        ]
+      },
+      {
+        "id": "BHR",
+        "languages": [
+          "Arabic"
+        ]
+      },
+      {
+        "id": "BGD",
+        "languages": [
+          "Bengali"
+        ]
+      },
+      {
+        "id": "BRB",
+        "languages": [
+          "English"
+        ]
+      },
+      {
+        "id": "BLR",
+        "languages": [
+          "Belarusian",
+          "Russian"
+        ]
+      },
+      {
+        "id": "BEL",
+        "languages": [
+          "Dutch",
+          "French",
+          "German"
+        ]
+      },
+      {
+        "id": "BLZ",
+        "languages": [
+          "Belize Kriol",
+          "English",
+          "Spanish"
+        ]
+      },
+      {
+        "id": "BEN",
+        "languages": [
+          "French"
+        ]
+      },
+      {
+        "id": "BMU",
+        "languages": [
+          "English"
+        ]
+      },
+      {
+        "id": "BTN",
+        "languages": [
+          "Dzongkha"
+        ]
+      },
+      {
+        "id": "BOL",
+        "languages": [
+          "Aymara",
+          "Guarani",
+          "Quechua",
+          "Spanish"
+        ]
+      },
+      {
+        "id": "BIH",
+        "languages": [
+          "Bosnian",
+          "Croatian",
+          "Serbian"
+        ]
+      },
+      {
+        "id": "BWA",
+        "languages": [
+          "English",
+          "Tswana"
+        ]
+      },
+      {
+        "id": "BVT",
+        "languages": [
+          "Norwegian"
+        ]
+      },
+      {
+        "id": "BRA",
+        "languages": [
+          "Portuguese"
+        ]
+      },
+      {
+        "id": "IOT",
+        "languages": [
+          "English"
+        ]
+      },
+      {
+        "id": "VGB",
+        "languages": [
+          "English"
+        ]
+      },
+      {
+        "id": "BRN",
+        "languages": [
+          "Malay"
+        ]
+      },
+      {
+        "id": "BGR",
+        "languages": [
+          "Bulgarian"
+        ]
+      },
+      {
+        "id": "BFA",
+        "languages": [
+          "French"
+        ]
+      },
+      {
+        "id": "BDI",
+        "languages": [
+          "French",
+          "Rundi"
+        ]
+      },
+      {
+        "id": "CPV",
+        "languages": [
+          "Portuguese"
+        ]
+      },
+      {
+        "id": "KHM",
+        "languages": [
+          "Khmer"
+        ]
+      },
+      {
+        "id": "CMR",
+        "languages": [
+          "English",
+          "French"
+        ]
+      },
+      {
+        "id": "CAN",
+        "languages": [
+          "English",
+          "French"
+        ]
+      },
+      {
+        "id": "BES",
+        "languages": [
+          "English",
+          "Dutch",
+          "Papiamento"
+        ]
+      },
+      {
+        "id": "CYM",
+        "languages": [
+          "English"
+        ]
+      },
+      {
+        "id": "CAF",
+        "languages": [
+          "French",
+          "Sango"
+        ]
+      },
+      {
+        "id": "TCD",
+        "languages": [
+          "Arabic",
+          "French"
+        ]
+      },
+      {
+        "id": "CHL",
+        "languages": [
+          "Spanish"
+        ]
+      },
+      {
+        "id": "CHN",
+        "languages": [
+          "Chinese"
+        ]
+      },
+      {
+        "id": "CXR",
+        "languages": [
+          "English"
+        ]
+      },
+      {
+        "id": "CCK",
+        "languages": [
+          "English"
+        ]
+      },
+      {
+        "id": "COL",
+        "languages": [
+          "Spanish"
+        ]
+      },
+      {
+        "id": "COM",
+        "languages": [
+          "Arabic",
+          "French",
+          "Ngazidja Comorian"
+        ]
+      },
+      {
+        "id": "COG",
+        "languages": [
+          "French",
+          "Kongo",
+          "Lingala"
+        ]
+      },
+      {
+        "id": "COK",
+        "languages": [
+          "English",
+          "Cook Islands Maori"
+        ]
+      },
+      {
+        "id": "CRI",
+        "languages": [
+          "Spanish"
+        ]
+      },
+      {
+        "id": "HRV",
+        "languages": [
+          "Croatian"
+        ]
+      },
+      {
+        "id": "CUB",
+        "languages": [
+          "Spanish"
+        ]
+      },
+      {
+        "id": "CUW",
+        "languages": [
+          "English",
+          "Dutch",
+          "Papiamento"
+        ]
+      },
+      {
+        "id": "CYP",
+        "languages": [
+          "Greek",
+          "Turkish"
+        ]
+      },
+      {
+        "id": "CZE",
+        "languages": [
+          "Czech",
+          "Slovak"
+        ]
+      },
+      {
+        "id": "COD",
+        "languages": [
+          "French",
+          "Kongo",
+          "Lingala",
+          "Luba-Lulua",
+          "Swahili"
+        ]
+      },
+      {
+        "id": "DNK",
+        "languages": [
+          "Danish"
+        ]
+      },
+      {
+        "id": "DJI",
+        "languages": [
+          "Arabic",
+          "French"
+        ]
+      },
+      {
+        "id": "DMA",
+        "languages": [
+          "English"
+        ]
+      },
+      {
+        "id": "DOM",
+        "languages": [
+          "Spanish"
+        ]
+      },
+      {
+        "id": "ECU",
+        "languages": [
+          "Spanish"
+        ]
+      },
+      {
+        "id": "EGY",
+        "languages": [
+          "Arabic"
+        ]
+      },
+      {
+        "id": "SLV",
+        "languages": [
+          "Spanish"
+        ]
+      },
+      {
+        "id": "GNQ",
+        "languages": [
+          "French",
+          "Portuguese",
+          "Spanish"
+        ]
+      },
+      {
+        "id": "ERI",
+        "languages": [
+          "Arabic",
+          "English",
+          "Tigrinya"
+        ]
+      },
+      {
+        "id": "EST",
+        "languages": [
+          "Estonian"
+        ]
+      },
+      {
+        "id": "SWZ",
+        "languages": [
+          "English",
+          "Swazi"
+        ]
+      },
+      {
+        "id": "ETH",
+        "languages": [
+          "Amharic"
+        ]
+      },
+      {
+        "id": "FLK",
+        "languages": [
+          "English"
+        ]
+      },
+      {
+        "id": "FRO",
+        "languages": [
+          "Danish",
+          "Faroese"
+        ]
+      },
+      {
+        "id": "FJI",
+        "languages": [
+          "English",
+          "Fijian",
+          "Fiji Hindi"
+        ]
+      },
+      {
+        "id": "FIN",
+        "languages": [
+          "Finnish",
+          "Swedish"
+        ]
+      },
+      {
+        "id": "FRA",
+        "languages": [
+          "French"
+        ]
+      },
+      {
+        "id": "GUF",
+        "languages": [
+          "French"
+        ]
+      },
+      {
+        "id": "PYF",
+        "languages": [
+          "French"
+        ]
+      },
+      {
+        "id": "ATF",
+        "languages": [
+          "French"
+        ]
+      },
+      {
+        "id": "GAB",
+        "languages": [
+          "French"
+        ]
+      },
+      {
+        "id": "GMB",
+        "languages": [
+          "English"
+        ]
+      },
+      {
+        "id": "GEO",
+        "languages": [
+          "Georgian"
+        ]
+      },
+      {
+        "id": "DEU",
+        "languages": [
+          "German"
+        ]
+      },
+      {
+        "id": "GHA",
+        "languages": [
+          "English"
+        ]
+      },
+      {
+        "id": "GIB",
+        "languages": [
+          "English"
+        ]
+      },
+      {
+        "id": "GRC",
+        "languages": [
+          "Greek"
+        ]
+      },
+      {
+        "id": "GRL",
+        "languages": [
+          "Greenlandic"
+        ]
+      },
+      {
+        "id": "GRD",
+        "languages": [
+          "English"
+        ]
+      },
+      {
+        "id": "GLP",
+        "languages": [
+          "French"
+        ]
+      },
+      {
+        "id": "GUM",
+        "languages": [
+          "Chamorro",
+          "English",
+          "Spanish"
+        ]
+      },
+      {
+        "id": "GTM",
+        "languages": [
+          "Spanish"
+        ]
+      },
+      {
+        "id": "GGY",
+        "languages": [
+          "English",
+          "French",
+          "Norman"
+        ]
+      },
+      {
+        "id": "GIN",
+        "languages": [
+          "French"
+        ]
+      },
+      {
+        "id": "GNB",
+        "languages": [
+          "Portuguese",
+          "Upper Guinea Crioulo"
+        ]
+      },
+      {
+        "id": "GUY",
+        "languages": [
+          "English"
+        ]
+      },
+      {
+        "id": "HTI",
+        "languages": [
+          "French",
+          "Haitian Creole"
+        ]
+      },
+      {
+        "id": "HMD",
+        "languages": [
+          "English"
+        ]
+      },
+      {
+        "id": "HND",
+        "languages": [
+          "Spanish"
+        ]
+      },
+      {
+        "id": "HKG",
+        "languages": [
+          "English",
+          "Chinese"
+        ]
+      },
+      {
+        "id": "HUN",
+        "languages": [
+          "Hungarian"
+        ]
+      },
+      {
+        "id": "ISL",
+        "languages": [
+          "Icelandic"
+        ]
+      },
+      {
+        "id": "IND",
+        "languages": [
+          "English",
+          "Hindi",
+          "Tamil"
+        ]
+      },
+      {
+        "id": "IDN",
+        "languages": [
+          "Indonesian"
+        ]
+      },
+      {
+        "id": "IRN",
+        "languages": [
+          "Persian"
+        ]
+      },
+      {
+        "id": "IRQ",
+        "languages": [
+          "Arabic",
+          "Aramaic",
+          "Central Kurdish"
+        ]
+      },
+      {
+        "id": "IRL",
+        "languages": [
+          "English",
+          "Irish"
+        ]
+      },
+      {
+        "id": "IMN",
+        "languages": [
+          "English",
+          "Manx"
+        ]
+      },
+      {
+        "id": "ISR",
+        "languages": [
+          "Arabic",
+          "Hebrew"
+        ]
+      },
+      {
+        "id": "ITA",
+        "languages": [
+          "Italian",
+          "Catalan"
+        ]
+      },
+      {
+        "id": "CIV",
+        "languages": [
+          "French"
+        ]
+      },
+      {
+        "id": "JAM",
+        "languages": [
+          "English",
+          "Jamaican Patois"
+        ]
+      },
+      {
+        "id": "JPN",
+        "languages": [
+          "Japanese"
+        ]
+      },
+      {
+        "id": "JEY",
+        "languages": [
+          "English",
+          "French",
+          "Norman"
+        ]
+      },
+      {
+        "id": "JOR",
+        "languages": [
+          "Arabic"
+        ]
+      },
+      {
+        "id": "KAZ",
+        "languages": [
+          "Kazakh",
+          "Russian"
+        ]
+      },
+      {
+        "id": "KEN",
+        "languages": [
+          "English",
+          "Swahili"
+        ]
+      },
+      {
+        "id": "KIR",
+        "languages": [
+          "English",
+          "Gilbertese"
+        ]
+      },
+      {
+        "id": "UNK",
+        "languages": [
+          "Albanian",
+          "Serbian"
+        ]
+      },
+      {
+        "id": "KWT",
+        "languages": [
+          "Arabic"
+        ]
+      },
+      {
+        "id": "KGZ",
+        "languages": [
+          "Kyrgyz",
+          "Russian"
+        ]
+      },
+      {
+        "id": "LAO",
+        "languages": [
+          "Lao"
+        ]
+      },
+      {
+        "id": "LVA",
+        "languages": [
+          "Latvian"
+        ]
+      },
+      {
+        "id": "LBN",
+        "languages": [
+          "Arabic",
+          "French"
+        ]
+      },
+      {
+        "id": "LSO",
+        "languages": [
+          "English",
+          "Sotho"
+        ]
+      },
+      {
+        "id": "LBR",
+        "languages": [
+          "English"
+        ]
+      },
+      {
+        "id": "LBY",
+        "languages": [
+          "Arabic"
+        ]
+      },
+      {
+        "id": "LIE",
+        "languages": [
+          "German"
+        ]
+      },
+      {
+        "id": "LTU",
+        "languages": [
+          "Lithuanian"
+        ]
+      },
+      {
+        "id": "LUX",
+        "languages": [
+          "German",
+          "French",
+          "Luxembourgish"
+        ]
+      },
+      {
+        "id": "MAC",
+        "languages": [
+          "Portuguese",
+          "Chinese"
+        ]
+      },
+      {
+        "id": "MDG",
+        "languages": [
+          "French",
+          "Malagasy"
+        ]
+      },
+      {
+        "id": "MWI",
+        "languages": [
+          "English",
+          "Chichewa"
+        ]
+      },
+      {
+        "id": "MYS",
+        "languages": [
+          "English",
+          "Malay"
+        ]
+      },
+      {
+        "id": "MDV",
+        "languages": [
+          "Divehi"
+        ]
+      },
+      {
+        "id": "MLI",
+        "languages": [
+          "French"
+        ]
+      },
+      {
+        "id": "MLT",
+        "languages": [
+          "English",
+          "Maltese"
+        ]
+      },
+      {
+        "id": "MHL",
+        "languages": [
+          "English",
+          "Marshallese"
+        ]
+      },
+      {
+        "id": "MTQ",
+        "languages": [
+          "French"
+        ]
+      },
+      {
+        "id": "MRT",
+        "languages": [
+          "Arabic"
+        ]
+      },
+      {
+        "id": "MUS",
+        "languages": [
+          "English",
+          "French",
+          "Mauritian Creole"
+        ]
+      },
+      {
+        "id": "MYT",
+        "languages": [
+          "French"
+        ]
+      },
+      {
+        "id": "MEX",
+        "languages": [
+          "Spanish"
+        ]
+      },
+      {
+        "id": "FSM",
+        "languages": [
+          "English"
+        ]
+      },
+      {
+        "id": "MDA",
+        "languages": [
+          "Romanian"
+        ]
+      },
+      {
+        "id": "MCO",
+        "languages": [
+          "French"
+        ]
+      },
+      {
+        "id": "MNG",
+        "languages": [
+          "Mongolian"
+        ]
+      },
+      {
+        "id": "MNE",
+        "languages": [
+          "Montenegrin"
+        ]
+      },
+      {
+        "id": "MSR",
+        "languages": [
+          "English"
+        ]
+      },
+      {
+        "id": "MAR",
+        "languages": [
+          "Arabic",
+          "Standard Moroccan Tamazight"
+        ]
+      },
+      {
+        "id": "MOZ",
+        "languages": [
+          "Portuguese"
+        ]
+      },
+      {
+        "id": "MMR",
+        "languages": [
+          "Burmese"
+        ]
+      },
+      {
+        "id": "NAM",
+        "languages": [
+          "Afrikaans",
+          "German",
+          "English",
+          "Herero",
+          "Hai‖om",
+          "Kwangali",
+          "Lozi",
+          "Ndonga",
+          "Tswana"
+        ]
+      },
+      {
+        "id": "NRU",
+        "languages": [
+          "English",
+          "Nauruan"
+        ]
+      },
+      {
+        "id": "NPL",
+        "languages": [
+          "Nepali"
+        ]
+      },
+      {
+        "id": "NLD",
+        "languages": [
+          "Dutch"
+        ]
+      },
+      {
+        "id": "NCL",
+        "languages": [
+          "French"
+        ]
+      },
+      {
+        "id": "NZL",
+        "languages": [
+          "English",
+          "Maori",
+          "New Zealand Sign Language"
+        ]
+      },
+      {
+        "id": "NIC",
+        "languages": [
+          "Spanish"
+        ]
+      },
+      {
+        "id": "NER",
+        "languages": [
+          "French"
+        ]
+      },
+      {
+        "id": "NGA",
+        "languages": [
+          "English"
+        ]
+      },
+      {
+        "id": "NIU",
+        "languages": [
+          "English",
+          "Niuean"
+        ]
+      },
+      {
+        "id": "NFK",
+        "languages": [
+          "English",
+          "Norfuk"
+        ]
+      },
+      {
+        "id": "PRK",
+        "languages": [
+          "Korean"
+        ]
+      },
+      {
+        "id": "MKD",
+        "languages": [
+          "Macedonian"
+        ]
+      },
+      {
+        "id": "MNP",
+        "languages": [
+          "Carolinian",
+          "Chamorro",
+          "English"
+        ]
+      },
+      {
+        "id": "NOR",
+        "languages": [
+          "Norwegian Nynorsk",
+          "Norwegian Bokmål",
+          "Northern Sami",
+          "Lule Sami",
+          "Southern Sami"
+        ]
+      },
+      {
+        "id": "OMN",
+        "languages": [
+          "Arabic"
+        ]
+      },
+      {
+        "id": "PAK",
+        "languages": [
+          "English",
+          "Urdu"
+        ]
+      },
+      {
+        "id": "PLW",
+        "languages": [
+          "English",
+          "Palauan"
+        ]
+      },
+      {
+        "id": "PSE",
+        "languages": [
+          "Arabic"
+        ]
+      },
+      {
+        "id": "PAN",
+        "languages": [
+          "Spanish"
+        ]
+      },
+      {
+        "id": "PNG",
+        "languages": [
+          "English",
+          "Hiri Motu",
+          "Tok Pisin"
+        ]
+      },
+      {
+        "id": "PRY",
+        "languages": [
+          "Guarani",
+          "Spanish"
+        ]
+      },
+      {
+        "id": "PER",
+        "languages": [
+          "Aymara",
+          "Quechua",
+          "Spanish"
+        ]
+      },
+      {
+        "id": "PHL",
+        "languages": [
+          "English",
+          "Filipino"
+        ]
+      },
+      {
+        "id": "PCN",
+        "languages": [
+          "English"
+        ]
+      },
+      {
+        "id": "POL",
+        "languages": [
+          "Polish"
+        ]
+      },
+      {
+        "id": "PRT",
+        "languages": [
+          "Portuguese"
+        ]
+      },
+      {
+        "id": "PRI",
+        "languages": [
+          "English",
+          "Spanish"
+        ]
+      },
+      {
+        "id": "QAT",
+        "languages": [
+          "Arabic"
+        ]
+      },
+      {
+        "id": "ROU",
+        "languages": [
+          "Romanian"
+        ]
+      },
+      {
+        "id": "RUS",
+        "languages": [
+          "Russian"
+        ]
+      },
+      {
+        "id": "RWA",
+        "languages": [
+          "English",
+          "French",
+          "Kinyarwanda"
+        ]
+      },
+      {
+        "id": "REU",
+        "languages": [
+          "French"
+        ]
+      },
+      {
+        "id": "BLM",
+        "languages": [
+          "French"
+        ]
+      },
+      {
+        "id": "SHN",
+        "languages": [
+          "English"
+        ]
+      },
+      {
+        "id": "KNA",
+        "languages": [
+          "English"
+        ]
+      },
+      {
+        "id": "LCA",
+        "languages": [
+          "English"
+        ]
+      },
+      {
+        "id": "MAF",
+        "languages": [
+          "French"
+        ]
+      },
+      {
+        "id": "SPM",
+        "languages": [
+          "French"
+        ]
+      },
+      {
+        "id": "VCT",
+        "languages": [
+          "English"
+        ]
+      },
+      {
+        "id": "WSM",
+        "languages": [
+          "English",
+          "Samoan"
+        ]
+      },
+      {
+        "id": "SMR",
+        "languages": [
+          "Italian"
+        ]
+      },
+      {
+        "id": "SAU",
+        "languages": [
+          "Arabic"
+        ]
+      },
+      {
+        "id": "SEN",
+        "languages": [
+          "French"
+        ]
+      },
+      {
+        "id": "SRB",
+        "languages": [
+          "Serbian"
+        ]
+      },
+      {
+        "id": "SYC",
+        "languages": [
+          "Seychellois Creole",
+          "English",
+          "French"
+        ]
+      },
+      {
+        "id": "SLE",
+        "languages": [
+          "English"
+        ]
+      },
+      {
+        "id": "SGP",
+        "languages": [
+          "English",
+          "Chinese",
+          "Malay",
+          "Tamil"
+        ]
+      },
+      {
+        "id": "SXM",
+        "languages": [
+          "English",
+          "French",
+          "Dutch"
+        ]
+      },
+      {
+        "id": "SVK",
+        "languages": [
+          "Slovak"
+        ]
+      },
+      {
+        "id": "SVN",
+        "languages": [
+          "Slovenian"
+        ]
+      },
+      {
+        "id": "SLB",
+        "languages": [
+          "English"
+        ]
+      },
+      {
+        "id": "SOM",
+        "languages": [
+          "Arabic",
+          "Somali"
+        ]
+      },
+      {
+        "id": "ZAF",
+        "languages": [
+          "Afrikaans",
+          "English",
+          "Southern Ndebele",
+          "Northern Sotho",
+          "Sotho",
+          "Swazi",
+          "Tswana",
+          "Tsonga",
+          "Venda",
+          "Xhosa",
+          "Zulu"
+        ]
+      },
+      {
+        "id": "SGS",
+        "languages": [
+          "English"
+        ]
+      },
+      {
+        "id": "KOR",
+        "languages": [
+          "Korean"
+        ]
+      },
+      {
+        "id": "SSD",
+        "languages": [
+          "English"
+        ]
+      },
+      {
+        "id": "ESP",
+        "languages": [
+          "Spanish",
+          "Catalan",
+          "Basque",
+          "Galician",
+          "Aranese"
+        ]
+      },
+      {
+        "id": "LKA",
+        "languages": [
+          "Sinhala",
+          "Tamil"
+        ]
+      },
+      {
+        "id": "SDN",
+        "languages": [
+          "Arabic",
+          "English"
+        ]
+      },
+      {
+        "id": "SUR",
+        "languages": [
+          "Dutch"
+        ]
+      },
+      {
+        "id": "SJM",
+        "languages": [
+          "Norwegian"
+        ]
+      },
+      {
+        "id": "SWE",
+        "languages": [
+          "Swedish"
+        ]
+      },
+      {
+        "id": "CHE",
+        "languages": [
+          "German",
+          "French",
+          "Italian",
+          "Romansh"
+        ]
+      },
+      {
+        "id": "SYR",
+        "languages": [
+          "Arabic"
+        ]
+      },
+      {
+        "id": "STP",
+        "languages": [
+          "Portuguese"
+        ]
+      },
+      {
+        "id": "TWN",
+        "languages": [
+          "Chinese"
+        ]
+      },
+      {
+        "id": "TJK",
+        "languages": [
+          "Russian",
+          "Tajik"
+        ]
+      },
+      {
+        "id": "TZA",
+        "languages": [
+          "English",
+          "Swahili"
+        ]
+      },
+      {
+        "id": "THA",
+        "languages": [
+          "Thai"
+        ]
+      },
+      {
+        "id": "TLS",
+        "languages": [
+          "Portuguese",
+          "Tetum"
+        ]
+      },
+      {
+        "id": "TGO",
+        "languages": [
+          "French"
+        ]
+      },
+      {
+        "id": "TKL",
+        "languages": [
+          "Tokelauan",
+          "English"
+        ]
+      },
+      {
+        "id": "TON",
+        "languages": [
+          "Tongan",
+          "English"
+        ]
+      },
+      {
+        "id": "TTO",
+        "languages": [
+          "English"
+        ]
+      },
+      {
+        "id": "TUN",
+        "languages": [
+          "Arabic"
+        ]
+      },
+      {
+        "id": "TUR",
+        "languages": [
+          "Turkish"
+        ]
+      },
+      {
+        "id": "TKM",
+        "languages": [
+          "Russian",
+          "Turkmen"
+        ]
+      },
+      {
+        "id": "TCA",
+        "languages": [
+          "English"
+        ]
+      },
+      {
+        "id": "TUV",
+        "languages": [
+          "English",
+          "Tuvaluan"
+        ]
+      },
+      {
+        "id": "UGA",
+        "languages": [
+          "English",
+          "Swahili"
+        ]
+      },
+      {
+        "id": "UKR",
+        "languages": [
+          "Ukrainian"
+        ]
+      },
+      {
+        "id": "ARE",
+        "languages": [
+          "Arabic"
+        ]
+      },
+      {
+        "id": "GBR",
+        "languages": [
+          "English"
+        ]
+      },
+      {
+        "id": "USA",
+        "languages": [
+          "English"
+        ]
+      },
+      {
+        "id": "UMI",
+        "languages": [
+          "English"
+        ]
+      },
+      {
+        "id": "VIR",
+        "languages": [
+          "English"
+        ]
+      },
+      {
+        "id": "URY",
+        "languages": [
+          "Spanish"
+        ]
+      },
+      {
+        "id": "UZB",
+        "languages": [
+          "Russian",
+          "Uzbek"
+        ]
+      },
+      {
+        "id": "VUT",
+        "languages": [
+          "Bislama",
+          "English",
+          "French"
+        ]
+      },
+      {
+        "id": "VAT",
+        "languages": [
+          "Italian",
+          "Latin"
+        ]
+      },
+      {
+        "id": "VEN",
+        "languages": [
+          "Spanish"
+        ]
+      },
+      {
+        "id": "VNM",
+        "languages": [
+          "Vietnamese"
+        ]
+      },
+      {
+        "id": "WLF",
+        "languages": [
+          "French"
+        ]
+      },
+      {
+        "id": "ESH",
+        "languages": [
+          "Hassaniya Arabic",
+          "Spanish"
+        ]
+      },
+      {
+        "id": "YEM",
+        "languages": [
+          "Arabic"
+        ]
+      },
+      {
+        "id": "ZMB",
+        "languages": [
+          "English"
+        ]
+      },
+      {
+        "id": "ZWE",
+        "languages": [
+          "Chewa",
+          "Chibarwe",
+          "English",
+          "Kalanga",
+          "Khoisan",
+          "Nambya",
+          "Ndau",
+          "Ndebele",
+          "Shangani",
+          "Shona",
+          "Sotho",
+          "Tonga",
+          "Tswana",
+          "Venda",
+          "Xhosa",
+          "Zimbabwean Sign Language"
+        ]
+      },
+      {
+        "id": "ALA",
+        "languages": [
+          "Swedish"
+        ]
+      }
+    ],
+    "meta": {
+      "total": 250
+    }
+  }
+}
