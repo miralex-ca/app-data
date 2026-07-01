@@ -1,0 +1,17 @@
+{
+  "data": {
+    "objects": [
+      {
+        "id": "FRA",
+        "languages": ["French"]
+      },
+      {
+        "id": "DEU",
+        "languages": ["German"]
+      }
+    ],
+    "meta": {
+      "total": 2
+    }
+  }
+}
