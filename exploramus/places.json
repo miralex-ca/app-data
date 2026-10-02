@@ -4,7 +4,7 @@
             {
                 "id": "santorini",
                 "title": "Santorini, Greece",
-                "description": "White-washed villages and sunsets over the Aegean Sea",
+                "description": "White villages and sunsets over the Aegean",
                 "description_long": "A volcanic Greek island famous for white-washed villages, blue-domed churches and unforgettable sunsets over the sea.",
                 "content": "Santorini is a crescent-shaped island in the Aegean Sea, shaped by one of the largest volcanic eruptions in history. Its white-washed houses and blue-domed churches cling to steep cliffs above a deep blue caldera. The village of Oia is the most photographed spot, especially at sunset, when visitors gather to watch the sky turn orange and pink. You can hike the cliff-top path from Fira to Oia, taste local wine grown in volcanic soil, or relax on beaches with red and black sand. The best time to visit is late spring to early autumn.",
                 "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Oia,_Santorini_HDR_sunset.jpg?width=1200"
@@ -12,7 +12,7 @@
             {
                 "id": "banff",
                 "title": "Banff National Park, Canada",
-                "description": "Turquoise lakes beneath the peaks of the Canadian Rockies",
+                "description": "Turquoise lakes beneath the Canadian Rockies",
                 "description_long": "Canada's oldest national park, where turquoise lakes sit beneath jagged peaks in the heart of the Rocky Mountains.",
                 "content": "Banff National Park is located in the Canadian Rockies in the province of Alberta. Founded in 1885, it is the oldest national park in Canada. The park is known for its glacier-fed lakes, which glow turquoise because of fine rock particles carried by meltwater. Moraine Lake and Lake Louise are the most famous, surrounded by tall snowy peaks. Visitors can hike, canoe, ski in winter, or soak in natural hot springs. Wildlife such as elk, bighorn sheep and black bears can often be seen. The small town of Banff offers cozy cafes and shops.",
                 "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Moraine_Lake_17092005.jpg?width=1200"
@@ -20,7 +20,7 @@
             {
                 "id": "cappadocia",
                 "title": "Cappadocia, Türkiye",
-                "description": "Fairy chimneys and hot air balloons over a surreal valley",
+                "description": "Fairy chimneys and hot air balloons",
                 "description_long": "A surreal region of fairy chimneys and cave houses, best seen from a hot air balloon floating at sunrise.",
                 "content": "Cappadocia is a historic region in central Türkiye with a landscape unlike anywhere else. Over millions of years, volcanic ash hardened into soft rock, and wind and rain carved it into towers called fairy chimneys. Ancient people dug homes, churches and even whole underground cities into the stone. Today, some of these caves are turned into charming hotels. The most popular activity is a sunrise hot air balloon ride, when hundreds of colorful balloons rise over the valleys. Visitors also enjoy hiking, horse riding and trying traditional pottery kebab.",
                 "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hot_air_ballons_in_the_G%C3%B6reme_National_Park.jpg?width=1200"
@@ -28,7 +28,7 @@
             {
                 "id": "hallstatt",
                 "title": "Hallstatt, Austria",
-                "description": "A fairytale lakeside village tucked into the Austrian Alps",
+                "description": "A fairytale lakeside village in the Alps",
                 "description_long": "A fairytale lakeside village in the Austrian Alps, surrounded by steep mountains and mirror-like water.",
                 "content": "Hallstatt is a tiny village on the shore of a calm alpine lake in Austria. Its colorful old houses are squeezed between the water and steep, forested mountains, creating a scene that looks like a postcard. The area has been home to people for thousands of years, mainly because of its salt mine, one of the oldest in the world. Today the village is a UNESCO World Heritage Site. Visitors can take a boat on the lake, ride the funicular up to the salt mine, or walk to a viewing platform above the village. Autumn colors make it especially beautiful.",
                 "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hallstatt_-_Gesamtansicht.jpg?width=1200"
@@ -36,7 +36,7 @@
             {
                 "id": "milford_sound",
                 "title": "Milford Sound, New Zealand",
-                "description": "A dramatic fiord with towering cliffs and waterfalls",
+                "description": "A dramatic fiord of cliffs and waterfalls",
                 "description_long": "A dramatic fiord with towering cliffs, waterfalls and the sharp peak of Mitre Peak rising straight from the water.",
                 "content": "Milford Sound is a fiord in the south-west of New Zealand's South Island, inside Fiordland National Park. Glaciers carved its steep walls thousands of years ago, and today cliffs rise more than a kilometer straight out of the dark water. Mitre Peak, the best-known mountain, is shaped like a bishop's hat. Rain is common here, and when it falls, hundreds of temporary waterfalls appear along the cliffs. Boat cruises are the best way to see the fiord, often with seals, penguins and dolphins nearby. The road to get there is one of the most scenic drives in the country.",
                 "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/MilfordSound.jpg?width=1200"
@@ -44,7 +44,7 @@
             {
                 "id": "amalfi_coast",
                 "title": "Amalfi Coast, Italy",
-                "description": "Pastel cliffside villages above the Mediterranean Sea",
+                "description": "Pastel villages above the Mediterranean Sea",
                 "description_long": "A sunny stretch of southern Italian coastline with pastel villages stacked on cliffs above the Mediterranean.",
                 "content": "The Amalfi Coast runs along the southern edge of Italy's Sorrentine Peninsula, with the Tyrrhenian Sea on one side and steep green hills on the other. Colorful villages such as Positano, Amalfi and Ravello seem to be stacked on the cliffs, linked by a narrow, winding coastal road. The region is famous for its lemons, which are used in fresh juices, desserts and the sweet liqueur limoncello. Visitors can swim from pebble beaches, take a ferry between towns, or walk the old mountain trail called the Path of the Gods. Summer is busy, so spring and early autumn are calmer.",
                 "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Amalfi_Coast_%28Italy%2C_October_2020%29_-_11_%2850557644098%29.jpg?width=1200"
@@ -52,7 +52,7 @@
             {
                 "id": "torres_del_paine",
                 "title": "Torres del Paine, Chile",
-                "description": "Granite towers, glaciers and wild lakes in Patagonia",
+                "description": "Granite towers, glaciers and lakes in Patagonia",
                 "description_long": "A wild corner of Patagonia with granite towers, blue glaciers, turquoise lakes and windswept grasslands.",
                 "content": "Torres del Paine National Park lies in the far south of Chile, in the region of Patagonia. Its three giant granite towers, which gave the park its name, rise sharply above the landscape and glow orange at sunrise. The park also has glaciers, bright blue lakes, rivers and open plains where guanacos, foxes and sometimes pumas live. Hikers come from all over the world to walk the W Trek or the longer O Circuit, which take several days. The weather changes quickly and the wind can be very strong, so warm layers are important. Summer, from December to February, is the best season.",
                 "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cordillera_del_Paine.jpg?width=1200"
@@ -60,7 +60,7 @@
             {
                 "id": "plitvice_lakes",
                 "title": "Plitvice Lakes, Croatia",
-                "description": "Sixteen terraced lakes linked by thundering waterfalls",
+                "description": "Terraced lakes linked by waterfalls",
                 "description_long": "A magical park of sixteen terraced lakes linked by waterfalls, with wooden walkways right above the water.",
                 "content": "Plitvice Lakes National Park is Croatia's oldest and largest national park, and a UNESCO World Heritage Site. It is made up of sixteen lakes that step down a forested valley, connected by dozens of waterfalls. The water changes color from green to blue to turquoise depending on minerals and sunlight. Wooden boardwalks and small trails let visitors walk across and beside the lakes, and electric boats carry people over the biggest one. The park is also home to bears, wolves and many birds. It is beautiful in every season, but spring and autumn are quieter.",
                 "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Water_flowing_through_a_narrow_passage_at_Plitvice_Lakes_National_Park_in_Croatia_%28DSC_0348%29.jpg?width=1200"
@@ -68,7 +68,7 @@
             {
                 "id": "bora_bora",
                 "title": "Bora Bora, French Polynesia",
-                "description": "A tropical lagoon paradise beneath an extinct volcano",
+                "description": "A tropical lagoon beneath an extinct volcano",
                 "description_long": "A tropical island paradise with a crystal-clear lagoon, overwater bungalows and a dramatic extinct volcano.",
                 "content": "Bora Bora is a small island in the South Pacific, part of French Polynesia. At its center stands Mount Otemanu, an ancient volcano covered in green jungle. Around the island is a shallow lagoon with incredibly clear water in many shades of blue, protected by a ring of tiny islands called motus. The island is famous for its overwater bungalows, where guests can step straight from their room into the sea. Popular activities include snorkeling with rays and reef sharks, kayaking, paddleboarding and diving. The dry season from May to October has the sunniest weather.",
                 "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mount_Otemanu%2C_Bora_Bora_-_French_Polynesia.jpg?width=1200"
@@ -76,7 +76,7 @@
             {
                 "id": "swiss_alps",
                 "title": "Swiss Alps, Switzerland",
-                "description": "Snowy peaks and cozy villages in the heart of Europe",
+                "description": "Snowy peaks and cozy villages in Europe",
                 "description_long": "Snowy peaks, green valleys and charming mountain villages, all connected by scenic trains and cable cars.",
                 "content": "The Swiss Alps cover most of southern Switzerland and are among the most beautiful mountains in the world. Famous peaks such as the Matterhorn rise above quiet valleys filled with wooden chalets, cows with bells and clear streams. Switzerland's trains and cable cars reach almost every corner, so you can enjoy mountain views without a long climb. In winter, the region is a top destination for skiing and snowboarding. In summer, hikers walk flower-filled meadows and swim in cold alpine lakes. Do not forget to try Swiss cheese fondue and chocolate after a long day outside.",
                 "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Matterhorn-EastAndNorthside-viewedFromZermatt_landscapeformat-2.jpg?width=1200"
@@ -84,7 +84,7 @@
             {
                 "id": "lofoten",
                 "title": "Lofoten Islands, Norway",
-                "description": "Red fishing cabins beneath dramatic Arctic mountains",
+                "description": "Red fishing cabins beneath Arctic mountains",
                 "description_long": "A chain of rugged islands in northern Norway where red fishing huts sit below sharp peaks and the sea.",
                 "content": "The Lofoten Islands lie north of the Arctic Circle in Norway, yet the climate is surprisingly mild because of the Gulf Stream. Steep granite mountains rise straight out of the sea, with small fishing villages such as Reine and Henningsvaer tucked in between. Traditional red cabins called rorbuer, once used by fishermen, are now popular places to stay. In winter, the northern lights often glow above the peaks. In summer, the midnight sun shines all night, making it perfect for hiking, kayaking and surfing. Do not miss the dried cod, a local specialty made here for centuries.",
                 "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Reine_at_Reinefjorden,_2010_September.jpg?width=1200"
@@ -92,7 +92,7 @@
             {
                 "id": "ha_long_bay",
                 "title": "Ha Long Bay, Vietnam",
-                "description": "Thousands of limestone islands rising from emerald water",
+                "description": "Thousands of limestone islands in emerald water",
                 "description_long": "A UNESCO-listed bay in northern Vietnam filled with thousands of limestone islands and calm green water.",
                 "content": "Ha Long Bay is located in the Gulf of Tonkin in northern Vietnam. Its name means Bay of the Descending Dragon, and local legend says the islands were formed by a dragon family that protected the country. In reality, there are almost two thousand limestone islands and pillars, shaped by the sea over millions of years. Many have hidden caves and quiet lagoons. Visitors usually explore the bay by boat, either on a day trip or an overnight cruise. You can kayak between the rocks, swim in sheltered coves, and visit floating fishing villages. The bay is a UNESCO World Heritage Site.",
                 "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ha_Long_Bay,_Vietnam,_Rock_formations.jpg?width=1200"
